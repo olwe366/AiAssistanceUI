@@ -1,0 +1,58 @@
+# Cybersecurity Awareness Chatbot | WPF C# Tutorial | Voice Recognition + Sentiment Detection
+
+## 📚 RESOURCES
+- GitHub Repository: [Link]
+- System.Speech Documentation: [Link]
+- WPF Tutorials: [Link]
+
+## ⏱️ TIMESTAMPS
+0:00 - Introduction
+2:00 - GUI Design Explained
+4:30 - Voice Implementation
+7:00 - Keyword Recognition System
+10:00 - Random Responses with Lists
+12:00 - Conversation Flow
+14:30 - Memory & Recall Feature
+17:00 - Sentiment Detection
+19:30 - Error Handling
+21:30 - Code Optimization
+24:00 - Live Demonstration
+28:00 - GitHub Requirements
+30:00 - Setup Instructions
+32:00 - Features Summary
+34:00 - Outro
+
+## 🎯 WHAT YOU'LL LEARN
+- Build WPF applications with modern UI design
+- Implement speech recognition and text-to-speech
+- Create keyword detection systems using dictionaries
+- Add memory and personalization features
+- Detect user sentiment from text input
+- Handle conversation flow and follow-ups
+- Professional error handling techniques
+
+## 🛠️ TECHNOLOGIES USED
+- C# .NET Framework
+- WPF (Windows Presentation Foundation)
+- System.Speech library
+- Regular Expressions
+- Dictionary and List data structures
+
+## 📝 ASSIGNMENT REQUIREMENTS MET
+✅ GUI with ASCII art
+✅ Voice implementation
+✅ Keyword recognition (3+ topics)
+✅ Random responses using arrays/lists
+✅ Conversation continuation
+✅ Memory and recall
+✅ Sentiment detection
+✅ Error handling
+✅ Code optimization with dictionaries
+✅ GitHub: 6+ commits, 2 releases
+
+## 🔗 CONNECT WITH ME
+GitHub: [Link]
+Twitter: [Link]
+LinkedIn: [Link]
+
+#WPF #CSharp #Chatbot #Cybersecurity #VoiceRecognition #SentimentAnalysis #DotNet
